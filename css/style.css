@@ -1,0 +1,287 @@
+body{
+	background-color:#181818; 
+	font-family: 'Titillium Web', sans-serif;
+}
+
+
+a 
+{
+	text-decoration: none;
+}
+	
+
+
+p{
+color: #ffffff;	
+opacity: 0.75;
+}
+#q{
+	
+}
+
+
+.navbar{
+	background-color:none;
+}
+
+ul{
+	margin-right: 0 !important;
+	margin-left: auto;
+	display: flex;
+ 
+}
+
+li
+{
+text-shadow:3px 3px 3px #000003;
+color: #ffffff;
+padding-right: 50px;
+padding-left: -25px;
+}
+
+#titless{
+color: #ffffff;
+text-shadow:1px 3px 2px #000000;
+padding-left: 50px;
+font-size: 30px;
+
+}
+#one{
+
+  position: relative;
+  min-height: 760px;
+  background:url("../img/tt.jfif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+
+
+  display: flex;
+  justify-content: center;
+  align-items:flex-end;
+}
+
+
+#onetext{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #fff;
+	text-shadow: 1px 1px 2px black;
+}
+#onetext a{
+	background-color: none;
+	opacity: 0.6;
+	color: #ffff;
+	font-size: 26px;
+	margin-bottom: 20px;
+}
+
+
+#onetext h2{
+    margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+
+
+#aboutme{
+
+color: #ffffff;
+display: flex;
+justify-content: center;
+padding: 80px 0px;
+font-size: 36px;
+text-shadow:1px 1px 3px #fff;
+opacity: 0.9;
+
+}
+#aboutme.container{
+	display: flex;
+	justify-content: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	font-size: 24px;
+	text-shadow:2px 3px 2px #000000;
+}
+
+#two{
+
+	padding-bottom: 40px;
+}
+
+#two #left img{
+	display: flex;
+	justify-content: center;
+	border-radius: 20px;
+	height: 300px;
+	width: 450px;
+	object-fit: cover;
+}
+#two img hover{
+   opacity:0.7;
+}
+
+
+#two #right
+{
+	display: flex;
+	justify-content: center;
+	margin: auto;
+	padding-top: 10px;
+	clear: both;}
+
+.prod{
+	margin-top: ;
+	margin-bottom: ;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.prod img{
+	display: flex;
+justify-content: center;
+	margin: 0 auto;
+	max-height: 700px;
+}
+
+#order{
+	background-color: grey;
+	opacity: 75%;
+	border-radius:40px;
+    margin-top: 30px;
+	margin-bottom: 40px;
+	width: 300px;
+	font-size:36px; 
+	color: #fff;
+
+}
+
+
+
+#fifth{
+
+	background-image: url(../img/roma.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: top center;
+}
+
+
+hr{
+	height: 2px;
+    background-color: #ffffff;
+    opacity: 96%;
+    margin-bottom: 55px;
+    margin-top: -10px;
+}
+
+#fifth.container{
+	display: flex;
+	justify-content: center;
+}
+
+#fifth .form {
+	max-width: 600px;
+	margin-left:  auto;
+	margin-right: auto;
+	padding-left:30px;
+	padding-right:30px;
+	padding-bottom: 30px; 
+	color:#ffffff;
+}
+
+
+
+.form input {
+	opacity: 95%;
+	display: flex;
+	justify-content: center;
+	height: 40px;
+	width: 100%;
+	background-color: #ffffff;
+	border-radius: 5px;
+	border:0px;
+	padding: 12px;
+	resize: vertical;
+	color: #000000;
+	margin:7.5px 0;
+}
+
+.form textarea {
+	opacity: 95%;
+	display: flex;
+	justify-content: center;
+	height: 200px;
+	width: 100%;
+	background-color: #ffffff;
+	border-radius: 5px;
+	border:0px;
+	padding: 12px;
+	resize: vertical;
+	color: #000000;
+	margin:7.5px 0;
+}
+
+input[type=submit] {
+  background-color: #ABD0CE;
+  color: white;
+  cursor: pointer;
+  width: 100px!important;
+  height: 48px;
+}
+
+input[type=submit]:hover {
+  background-color: #8ABCB8;
+}
+
+#send{
+	margin: auto;
+
+}
+
+#sendcontent{
+margin: auto;
+background-color: #0D0D0D;
+}
+
+#fifth .row{
+ margin-bottom: 30px;
+}
+
+
+footer{
+	background-color:#181818 !important; 
+}
+#six{
+	color: #fff;
+	margin-bottom: 50px;
+	margin-top: 0px;
+	opacity: 85%;
+
+}
+
+#six div{
+
+}
+
+.card
+{
+background-color:#181818;
+}
+
+
+
+
+h4{
+	color: #fff;
+	margin-bottom: 30px;
+}
+
+#six .small{
+	color: #fff;
+}
